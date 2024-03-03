@@ -11,7 +11,6 @@ pnpm dev
 # or
 npm run dev
 ```
-
 See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#loading-the-extension
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
