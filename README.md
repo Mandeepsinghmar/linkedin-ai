@@ -1,5 +1,7 @@
 # ChatGPT Writer Take-Home Coding Assignment
 
+https://www.loom.com/share/9dcf9fccf6f14f4ba9b28782c2bc1502
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
 ## Getting Started
